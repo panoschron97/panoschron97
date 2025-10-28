@@ -5,3 +5,5 @@ I possess a strong foundation in Data Science, Data Analysis and SQL (including 
 
 I am particularly interested in roles such as Data Analyst, Database Administrator, SQL Developer, PL/SQL Developer and Data Engineer.
 
+Status -> I'm currently trying to master Java and PHP.
+
